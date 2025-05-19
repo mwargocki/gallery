@@ -3,7 +3,7 @@ import io.gitlab.arturbosch.detekt.extensions.DetektExtension
 
 plugins {
 	kotlin("jvm") version "2.0.21"
-	kotlin("plugin.spring") version "2.0.21"
+	kotlin("plugin.spring") version "2.1.21"
 	id("org.springframework.boot") version "3.4.4"
 	id("io.spring.dependency-management") version "1.1.7"
 	id("io.gitlab.arturbosch.detekt") version "1.23.8"
